@@ -1,5 +1,4 @@
 import random
-
 while True:
 
     print("\033c", end="")
