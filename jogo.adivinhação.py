@@ -1,4 +1,4 @@
-import random
+ import random
 while True:
 
     print("\033c", end="")
@@ -43,7 +43,7 @@ while True:
         ))
 
         if numero == numero_sorteado:
-            print("\n🎉 Parabéns, você acertou!")
+            print("\nParabéns, você acertou!")
             acertou = True
             break
 
